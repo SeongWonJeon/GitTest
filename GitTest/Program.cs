@@ -2,9 +2,10 @@
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("변경된 내용입니다.");
+            Console.WriteLine("굉장한기능 1개발");
             
         }
     }
